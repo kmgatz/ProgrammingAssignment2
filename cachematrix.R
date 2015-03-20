@@ -1,4 +1,4 @@
-## Programming Assignment 2 for Karen Gatz
+## Programming Assignment 2 for Karen Gatz  
 
 ## makeSolve: takes a matrix for a parameter and contains subfunctions for providing the inverse matrix 
 ## cacheSolve: takes a matrix for a parameter and if the inverse matrix has been cached, returns it or 
